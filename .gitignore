@@ -1,6 +1,3 @@
-
-.venv
-.env   
-.venv
-.envv
-
+.idea/
+.venv/
+__pycache__/
